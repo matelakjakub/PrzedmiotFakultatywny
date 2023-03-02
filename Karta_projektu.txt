@@ -1,0 +1,22 @@
+Ćw.2
+Karta projektu
+Nazwa projektu: AgroTour
+Wizja: Aplikacja AgroTour ma na celu ułatwienie zarządzania agroturystyką, 
+umożliwiając zarządzanie rezerwacjami, kalendarzem zajęć, płatnościami oraz udostępnianie informacji o atrakcjach turystycznych w okolicy
+Zakres projektu: Analiza wymagań, Projektowanie interfejsu użytkownika, Implementacja aplikacji, Testowanie aplikacji, Wdrożenie aplikacji, Wsparcie i rozwój
+Role: frontend-tworzy wygląd wizualny aplikacji, backend-mechanizmy sterujące stroną, baza danych, uxdesigner-dba o wygląd i funkcjonalność aplikacji,
+tester-testuje aplikacje, project manager-nadzoruje zespół, ustala terminy, buisness analytic- analizuje z biznesowej strony powodzenie aplikacji.
+KPI:
+Kryteria sukcesu:
+
+Wdrożenie aplikacji zgodnie z harmonogramem i budżetem
+Osiągnięcie wysokiej jakości i wydajności aplikacji
+Pozytywne opinie od użytkowników i właścicieli obiektów agroturystycznych
+Zwiększenie liczby rezerwacji i przychodów dla właścicieli obiektów agroturystycznych
+Zwiększenie zainteresowania turystów agroturystyką w regionie
+Ryzyka projektowe:
+
+Problemy z integracją systemów płatności online
+Problemy z wydajnością aplikacji w czasie wzmożonego ruchu turystycznego
+Opóźnienia w harmonogramie spowodowane nieprzewidzianymi problemami technicznymi
+Konieczność dostosowania aplikacji do różnych wymagań prawnych w różnych krajach i regionach

@@ -1,0 +1,28 @@
+Ćw.1 
+Budżet(czas):
+- Analiza wymagań - 1 miesiąc
+- Projektowanie interfejsu użytkownika - 2 miesiące
+- Implementacja aplikacji - 6 miesięcy
+- Testowanie aplikacji - 1 miesiąc
+- Wdrożenie aplikacji - 1 tydzień
+- Wsparcie i rozwój - trwający cały czas po wdrożeniu aplikacji
+
+Koszt zatrudnienia zespołu projektowego: 100000zł
+Koszt narzędzi i oprogramowania: 0zł
+Koszt serwera i infrastruktury: 0zł
+Koszt marketingu i promocji: 5000zł
+Łączny koszt projektu: 105000zł
+
+Cel projektu: 
+- Stworzenie aplikacji webowej i mobilnej, umożliwiającej łatwe zarządzanie agroturystyką
+- Umożliwienie właścicielom obiektów agroturystycznych rezerwowania pokoi i usług przez internet
+- Umożliwienie turystom przeglądania ofert agroturystycznych oraz rezerwowania pobytów online
+- Umożliwienie dodawania informacji o atrakcjach turystycznych w okolicy oraz promowanie ich wśród turystów
+
+Odpowiedzialności(role w zespole):
+- frontend
+- backend
+- uxdesigner
+- tester
+- project manager
+- buisness analytic
